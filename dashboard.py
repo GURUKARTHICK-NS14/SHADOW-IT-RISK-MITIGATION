@@ -1,6 +1,7 @@
 from flask import Flask, render_template_string
 import csv
 
+
 app = Flask(__name__)
 
 HTML_TEMPLATE = """
