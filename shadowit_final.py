@@ -5,6 +5,7 @@ import csv
 LOG_DIR = "logs"
 REPORT_DIR = "reports"
 
+
 # Shadow IT domains with risk levels
 SHADOW_IT_DOMAINS = {
     "dropbox.com": "HIGH",
